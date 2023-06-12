@@ -1,0 +1,10 @@
+* dweet
+
+dweet.io client for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/death/dweet.git   |
+| commit  | d3f17ca  |
+| systems | dweet |
+|---------+-------------------------------------------|
+
